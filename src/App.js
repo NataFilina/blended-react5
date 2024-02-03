@@ -1,7 +1,6 @@
 import { Navigate, Route, Routes } from "react-router-dom";
 import { Header } from "./components/Header/Header";
 import { lazy, useEffect } from "react";
-import { userInfo } from "./services/getUserInfo";
 import { useDispatch } from "react-redux";
 import { baseCurrencyThunk } from "./redux/operetion";
 import { setBaseCurrency } from "./redux/slice";
