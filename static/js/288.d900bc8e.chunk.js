@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkblended_react5=self.webpackChunkblended_react5||[]).push([[288],{288:(e,d,s)=>{s.r(d),s.d(d,{default:()=>a});s(60);var c=s(496);const a=()=>(0,c.jsx)("div",{children:(0,c.jsx)("p",{children:"Rates"})})}}]);
+//# sourceMappingURL=288.d900bc8e.chunk.js.map
